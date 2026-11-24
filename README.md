@@ -1,4 +1,5 @@
 SUMATIVA 2
+---------------------
 
 Aplicación web desarrollada con React que permite explorar vuelos hacia
 distintos aeropuertos de Chile, consultar hoteles por ciudad y reservar
