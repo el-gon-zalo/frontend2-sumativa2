@@ -83,10 +83,3 @@ ENDPOINTS DE LA APLICACION
 /hotel/:id/fechas    Fechas y reservas de un hotel
 /carrito             Carrito de reservas y total a pagar
 /contacto            Formulario de contacto
-
-
-AUTOR
------
-
-<Tu nombre>
-<Tu correo o perfil de GitHub>
