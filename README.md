@@ -75,11 +75,19 @@ ENDPOINTS DE LA APLICACION
 ----------------------
 
 /                    Inicio (vuelos y hoteles)
+
 /vuelos              Listado de vuelos
+
 /vuelo/:id           Detalle de un vuelo
+
 /vuelo/:id/fechas    Fechas y reservas de un vuelo
+
 /hoteles             Listado de hoteles (admite ?ciudad=Nombre)
+
 /hotel/:id           Detalle de un hotel
+
 /hotel/:id/fechas    Fechas y reservas de un hotel
+
 /carrito             Carrito de reservas y total a pagar
+
 /contacto            Formulario de contacto
