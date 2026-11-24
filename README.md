@@ -82,7 +82,7 @@ ENDPOINTS DE LA APLICACION
 
 /vuelo/:id/fechas    Fechas y reservas de un vuelo
 
-/hoteles             Listado de hoteles (admite ?ciudad=Nombre)
+/hoteles             Listado de hoteles
 
 /hotel/:id           Detalle de un hotel
 
